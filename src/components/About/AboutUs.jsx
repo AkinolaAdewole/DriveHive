@@ -1,6 +1,6 @@
 import React from "react";
 import Vision from "./Vision";
-import Approch from "./Approch";
+import Approach from "./Approach";
 
 const AboutUs = () => {
   return (
