@@ -1,7 +1,7 @@
 import React from "react";
 import img from "../../assets/img/approch.jpg";
 
-const Approach = () => {
+const Approch = () => {
   return (
     <div className=" flex flex-col-reverse justify-center md:flex-row items-center gap-5 mt-14">
       {/* content section  */}
@@ -32,4 +32,4 @@ const Approach = () => {
   );
 };
 
-export default Approach;
+export default Approch;
